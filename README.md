@@ -48,7 +48,8 @@ This documentation provides an in-depth explanation of the attributes included i
 
 4. Explore player statistics and visualizations using the user-friendly interface.
 
-##--To follow instructions better on using the analytic app click the link below--##
+## --To follow instructions better on using the analytic app click the link below--
+
 
 ## Why Scatterplots?
 
