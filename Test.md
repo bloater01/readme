@@ -9,7 +9,8 @@ This documentation provides an in-depth explanation of the attributes included i
 
 ## Features
 
-- **Yearly Player Stats:** View detailed statistics for NBA players on a per-game basis for each year.
+- **Yearly Player Stats:** View statistics for NBA players' performance basis for each year.
+- **Select Specific Player** View in-depth individual player stats by selecting (click 2 lmb) the player of choice or using filter to find a specific player to view whether by position or year.
 - **Data Visualization:** Utilizes scatterplots for visualizing player performance trends and patterns.
 - **JSON Data Loading:** The app supports loading player data from a JSON file, allowing users to easily update and customize the dataset.
 
