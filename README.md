@@ -1,6 +1,7 @@
-<img src="icon.png" align="right" />
+| Main Photo                                      | Overlay Icon                      |
+| ----------------------------------------------- | --------------------------------- |
+| ![My Photo](/1.png) | ![Overlay Icon](icon.png) |
 
-![My Photo](/1.png)
 
 # NBA Player Stats Analytics App
 ## Overview
