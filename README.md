@@ -81,4 +81,163 @@ This project is licensed under the [MIT License](LICENSE).
 | ![Roger](/b.png)      | ![Adrylle](/a.png)      | ![Jeff](/c.png)            |
 
 
+## Attributes
+
+### Rk (Rank):
+
+- **Type:** Integer
+- **Description:** Represents the rank of the player based on certain criteria. This may vary depending on the context in which the dataset was compiled.
+
+### Player:
+
+- **Type:** String
+- **Description:** Indicates the name of the NBA player.
+
+### Pos (Position):
+
+- **Type:** String
+- **Description:** Specifies the player's position on the basketball court (e.g., Guard, Forward, Center).
+
+### Age:
+
+- **Type:** Integer
+- **Description:** Represents the age of the player during the specified year.
+
+### Tm (Team):
+
+- **Type:** String
+- **Description:** Denotes the NBA team for which the player was playing during the specified year.
+
+### G (Games Played):
+
+- **Type:** Integer
+- **Description:** Indicates the total number of games in which the player participated during the season.
+
+### GS (Games Started):
+
+- **Type:** Integer
+- **Description:** Represents the number of games in which the player was in the starting lineup.
+
+### MP (Minutes Played):
+
+- **Type:** Float
+- **Description:** Specifies the total number of minutes the player spent on the court during the season.
+
+### FG (Field Goals Made):
+
+- **Type:** Integer
+- **Description:** Indicates the total number of successful field goals made by the player.
+
+### FGA (Field Goals Attempted):
+
+- **Type:** Integer
+- **Description:** Represents the total number of field goal attempts by the player.
+
+### FG% (Field Goal Percentage):
+
+- **Type:** Float
+- **Description:** Represents the shooting accuracy of the player, calculated as (FG / FGA) * 100.
+
+### 3P (Three-Pointers Made):
+
+- **Type:** Integer
+- **Description:** Indicates the total number of successful three-pointers made by the player.
+
+### 3PA (Three-Pointers Attempted):
+
+- **Type:** Integer
+- **Description:** Represents the total number of three-point attempts by the player.
+
+### 3P% (Three-Point Percentage):
+
+- **Type:** Float
+- **Description:** Represents the shooting accuracy from three-point range, calculated as (3P / 3PA) * 100.
+
+### 2P (Two-Pointers Made):
+
+- **Type:** Integer
+- **Description:** Indicates the total number of successful two-pointers made by the player.
+
+### 2PA (Two-Pointers Attempted):
+
+- **Type:** Integer
+- **Description:** Represents the total number of two-point attempts by the player.
+
+### 2P% (Two-Point Percentage):
+
+- **Type:** Float
+- **Description:** Represents the shooting accuracy from two-point range, calculated as (2P / 2PA) * 100.
+
+### eFG% (Effective Field Goal Percentage):
+
+- **Type:** Float
+- **Description:** A composite measure of a player's shooting efficiency, considering the added value of three-pointers. Calculated as (FG + 0.5 * 3P) / FGA * 100.
+
+### FT (Free Throws Made):
+
+- **Type:** Integer
+- **Description:** Indicates the total number of successful free throws made by the player.
+
+### FTA (Free Throws Attempted):
+
+- **Type:** Integer
+- **Description:** Represents the total number of free throw attempts by the player.
+
+### FT% (Free Throw Percentage):
+
+- **Type:** Float
+- **Description:** Represents the free throw shooting accuracy of the player, calculated as (FT / FTA) * 100.
+
+### ORB (Offensive Rebounds):
+
+- **Type:** Integer
+- **Description:** Denotes the total number of offensive rebounds grabbed by the player.
+
+### DRB (Defensive Rebounds):
+
+- **Type:** Integer
+- **Description:** Denotes the total number of defensive rebounds grabbed by the player.
+
+### TRB (Total Rebounds):
+
+- **Type:** Integer
+- **Description:** Represents the total number of rebounds (offensive + defensive) grabbed by the player.
+
+### AST (Assists):
+
+- **Type:** Integer
+- **Description:** Indicates the total number of assists made by the player.
+
+### STL (Steals):
+
+- **Type:** Integer
+- **Description:** Denotes the total number of steals made by the player.
+
+### BLK (Blocks):
+
+- **Type:** Integer
+- **Description:** Represents the total number of shots blocked by the player.
+
+### TOV (Turnovers):
+
+- **Type:** Integer
+- **Description:** Indicates the total number of turnovers committed by the player.
+
+### PF (Personal Fouls):
+
+- **Type:** Integer
+- **Description:** Denotes the total number of personal fouls committed by the player.
+
+### PTS (Points):
+
+- **Type:** Integer
+- **Description:** Represents the total number of points scored by the player.
+
+### Year:
+
+- **Type:** (Specify the type, e.g., Integer, String)
+- **Description:** (Specify the description for the "Year" attribute)
+
+
+
 
