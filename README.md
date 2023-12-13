@@ -61,4 +61,17 @@ If you'd like to contribute to the project, please send money to my GCASH 096691
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Founding Fathers
+
+**Roger Anthony Bairoy**
+![My Photo](/b.png)
+
+
+**Adrylle Raphael Quiapo**
+![My Photo](/a.png)
+
+
+**Jeff Matthew Dejan Capinig**
+![My Photo](/c.png)
+
 
