@@ -1,0 +1,55 @@
+# NBA Player Stats Analytics App
+
+## Overview
+
+This project is dedicated to creating a comprehensive analytics system for visualizing NBA player statistics per game every year. The app utilizes data visualization techniques, including scatterplots, to provide users with an insightful analysis of player performance.
+
+## Features
+
+- **Yearly Player Stats:** View detailed statistics for NBA players on a per-game basis for each year.
+- **Data Visualization:** Utilizes scatterplots for visualizing player performance trends and patterns.
+- **JSON Data Loading:** The app supports loading player data from a JSON file, allowing users to easily update and customize the dataset.
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/nba-analytics-app.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    cd nba-analytics-app
+    npm install
+    ```
+
+3. Upload player data:
+
+    - Prepare a JSON file with player statistics (e.g., `players_data.json`).
+    - Upload the JSON file to the app.
+
+## Usage
+
+1. Run the app:
+
+    ```bash
+    npm start
+    ```
+
+2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
+
+3. Explore player statistics and visualizations using the user-friendly interface.
+
+## Why Scatterplots?
+
+Scatterplots are chosen for their effectiveness in displaying the relationship between two variables. In the context of this project, scatterplots are employed to showcase the correlation between different player statistics, such as points scored, assists, and rebounds per game. This visual representation allows users to identify trends, outliers, and patterns, providing a deeper understanding of player performance over time.
+
+## Contributing
+
+If you'd like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
