@@ -2,7 +2,10 @@
 
 ## Overview
 
-This project is dedicated to creating a comprehensive analytics system for visualizing NBA player statistics per game every year. The app utilizes data visualization techniques, including scatterplots, to provide users with an insightful analysis of player performance.
+
+This documentation provides a comprehensive overview of the NBA stats dataset for the years 1998 to 2002. Each attribute has been explained in detail to facilitate a better understanding of the dataset and its potential applications.NBA Stats Dataset Documentation (1998-2002)
+Overview
+This documentation provides an in-depth explanation of the attributes included in the NBA stats dataset from Kaggle, covering the years 1998 to 2002. The dataset contains information about various player statistics during this time period.
 
 ## Features
 
