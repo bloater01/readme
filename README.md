@@ -63,15 +63,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Founding Fathers
 
-**Roger Anthony Bairoy**
-<img src="/b.png" width="250"/>
+# Team Members
 
+| Roger Anthony Bairoy | Adrylle Raphael Quiapo | Jeff Matthew Dejan Capinig |
+| --------------------- | ----------------------- | --------------------------- |
+| ![Roger](/b.png)      | ![Adrylle](/a.png)      | ![Jeff](/c.png)            |
 
-**Adrylle Raphael Quiapo**
-<img src="/a.png" width="250"/>
-
-
-**Jeff Matthew Dejan Capinig**
-<img src="/c.png" width="250"/>
 
 
