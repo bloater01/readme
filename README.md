@@ -1,5 +1,5 @@
 # NBA Player Stats Analytics App
-![My Photo](readme/1.png)
+![My Photo](/1.png)
 ## Overview
 
 
