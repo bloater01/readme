@@ -1,4 +1,4 @@
-
+<img src="icon.png" align="right" />
 # NBA Player Stats Analytics App
 ![My Photo](/1.png)
 ## Overview
