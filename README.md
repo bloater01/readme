@@ -32,7 +32,7 @@ This documentation provides an in-depth explanation of the attributes included i
 3. Upload player data:
 
     - Prepare a JSON file with player statistics (e.g., `NBA_Player_Stats.json`).
-    - Upload the JSON file to the app.
+  
 
 ## Usage
 
