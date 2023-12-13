@@ -5,7 +5,7 @@
 
 This documentation provides a comprehensive overview of the NBA stats dataset for the years 1998 to 2002. Each attribute has been explained in detail to facilitate a better understanding of the dataset and its potential applications.NBA Stats Dataset Documentation (1998-2002)
 Overview
-This documentation provides an in-depth explanation of the attributes included in the NBA stats dataset from Kaggle, covering the years 1998 to 2002. The dataset contains information about various player statistics during this time period.
+This documentation provides an in-depth explanation of the attributes included in the NBA stats dataset from Kaggle, covering the years 1998 to 2002. The dataset contains information about various player statistics during this time-period.
 
 ## Features
 
@@ -31,7 +31,7 @@ This documentation provides an in-depth explanation of the attributes included i
 
 3. Upload player data:
 
-    - Prepare a JSON file with player statistics (e.g., `players_data.json`).
+    - Prepare a JSON file with player statistics (e.g., `NBA_Player_Stats.json`).
     - Upload the JSON file to the app.
 
 ## Usage
@@ -60,3 +60,5 @@ If you'd like to contribute to the project, please send money to my GCASH 096691
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
