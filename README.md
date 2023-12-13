@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Founding Fathers
 
 **Roger Anthony Bairoy**
-<img src="/b.png" alt="My Photo" width="50"/>
+<img src="/b.png" width="50"/>
 
 
 **Adrylle Raphael Quiapo**
