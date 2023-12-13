@@ -42,9 +42,12 @@ This documentation provides an in-depth explanation of the attributes included i
     npm start
     ```
 
-2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
+2. Load data assets by navigating to the upload CSV button.
 
-3. Explore player statistics and visualizations using the user-friendly interface.
+3. select a specific data asset (NBA_Player_Stats). then wait for it to load CSV.
+
+4. Explore player statistics and visualizations using the user-friendly interface.
+
 
 ## Why Scatterplots?
 
