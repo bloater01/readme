@@ -55,7 +55,7 @@ Scatterplots are chosen for their effectiveness in displaying the relationship b
 
 ## Contributing
 
-If you'd like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
+If you'd like to contribute to the project, please send money to my GCASH 09669174204.
 
 ## License
 
