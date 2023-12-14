@@ -28,12 +28,25 @@ This documentation provides an in-depth explanation of the attributes included i
 
 2. Install dependencies:
 
-    ```bash
-    cd nba-analytics-app
-    npm install
-    ```
+    Pandas
 
-3. Upload player data:
+   Matplotlib
+
+   Sk.lean
+
+   Seaborn
+
+   Numpy
+
+   mplcurser
+   
+3. Install dependencies:
+    ```bash
+   pip
+    ```
+5. Installation process:
+   
+6. Upload player data:
 
     - Prepare a JSON file with player statistics (e.g., `NBA_Player_Stats.json`).
   
