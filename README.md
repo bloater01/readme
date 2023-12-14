@@ -39,14 +39,18 @@ This documentation provides an in-depth explanation of the attributes included i
    Numpy
 
    mplcurser
+
+   tkinnter
    
 3. Install dependencies:
     ```bash
    pip
     ```
-5. Installation process:
+    
+
+
    
-6. Upload player data:
+4. Upload player data:
 
     - Prepare a JSON file with player statistics (e.g., `NBA_Player_Stats.json`).
   
