@@ -81,6 +81,11 @@ This documentation provides an in-depth explanation of the attributes included i
 
 Scatterplots are chosen for their effectiveness in displaying the relationship between two variables. In the context of this project, scatterplots are employed to showcase the correlation between different player statistics, such as points scored, assists, and rebounds per game. This visual representation allows users to identify trends, outliers, and patterns, providing a deeper understanding of player performance over time.
 
+
+## Why Radarchart?
+
+Radar charts are selected for their efficacy in illustrating the multidimensional aspects of NBA player statistics. In the scope of this project, radar charts are utilized to highlight the correlations among various player performance metrics, including points scored, assists, rebounds per game, and more. This visual depiction enables users to discern trends, outliers, and patterns, fostering a comprehensive insight into the evolution of player performance across different dimensions over time.
+
 ## Contributing
 
 If you'd like to contribute to the project, please send money to my GCASH 09669174204.
